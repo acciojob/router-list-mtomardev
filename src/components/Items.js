@@ -9,13 +9,13 @@ const Items = () => {
       
       <ul>
         <li>
-          <NavLink to="items/1">Item1</NavLink>
+          <NavLink to="items/1">Item 1</NavLink>
         </li>
         <li>
-          <NavLink to="items/2">Item2</NavLink>
+          <NavLink to="items/2">Item 2</NavLink>
         </li>
         <li>
-          <NavLink to="items/3">Item3</NavLink>
+          <NavLink to="items/3">Item 3</NavLink>
         </li>
       </ul>
     </div>
